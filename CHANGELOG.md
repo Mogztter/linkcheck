@@ -1,3 +1,7 @@
+## 3.4.56
+
+- Test release with `pkg_cli`
+
 ## 2.0.18
 
 - Allow the latest `pkg:args`;

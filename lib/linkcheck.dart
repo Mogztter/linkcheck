@@ -28,7 +28,7 @@ const hostsFlag = "hosts";
 const inputFlag = "input-file";
 const redirectFlag = "show-redirects";
 const skipFlag = "skip-file";
-const version = "2.0.18";
+const version = "3.4.56";
 const versionFlag = "version";
 final _portOnlyRegExp = RegExp(r"^:\d+$");
 
