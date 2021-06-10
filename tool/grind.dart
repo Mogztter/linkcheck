@@ -4,7 +4,7 @@ import 'package:grinder/grinder.dart';
 void main(List<String> args) {
   pkg.name.value = "linkcheck";
   pkg.humanName.value = "linkcheck";
-  pkg.githubRepo.value = "filiph/linkcheck";
+  pkg.githubRepo.value = "mogztter/linkcheck";
   pkg.addAllTasks();
   grind(args);
 }
